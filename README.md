@@ -27,4 +27,4 @@ Which country have the most order
 Which City have the highest sales
 Which category have the maximum profit
 
-![image alt](https://raw.githubusercontent.com/rahilytmedia/Dashboard_practice_1/refs/heads/main/Screenshot%202026-06-23%20010608.jpg)
+https://raw.githubusercontent.com/rahilytmedia/Dashboard_practice_1/refs/heads/main/Screenshot%202026-06-23%20010608.jpg)
